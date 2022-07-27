@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Animation-Lift.git/static/css/main.cb4e49f4.css",
+    "main.js": "/Animation-Lift.git/static/js/main.4b5bf2c1.js",
+    "index.html": "/Animation-Lift.git/index.html",
+    "main.cb4e49f4.css.map": "/Animation-Lift.git/static/css/main.cb4e49f4.css.map",
+    "main.4b5bf2c1.js.map": "/Animation-Lift.git/static/js/main.4b5bf2c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb4e49f4.css",
+    "static/js/main.4b5bf2c1.js"
+  ]
+}
